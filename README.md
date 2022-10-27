@@ -1,1 +1,1 @@
-# -ticket_price
+# ticket_price
